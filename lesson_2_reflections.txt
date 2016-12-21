@@ -1,0 +1,4 @@
+Reflect: Initializing a Repository
+
+When you initialize a repository it adds a .git folder but it does not do a commit. 
+If you want to track the status of the files then run the command 'git status'
